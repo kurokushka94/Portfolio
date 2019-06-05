@@ -1,3 +1,6 @@
 'TailsOfTime/' filter=lfs diff=lfs merge=lfs -text
 TailsOfTime" filter=lfs diff=lfs merge=lfs -text
 TailsOfTime/Tails[[:space:]]of[[:space:]]Time[[:space:]]Setup.exe filter=lfs diff=lfs merge=lfs -text
+TailsOfTime/Tails[[:space:]]of[[:space:]]Time[[:space:]]Setup.exe" filter=lfs diff=lfs merge=lfs -text
+TailsOfTime/DoggoJam19_Data" filter=lfs diff=lfs merge=lfs -text
+TailsOfTime/TailsOfTime/DoggoJam19_Data" filter=lfs diff=lfs merge=lfs -text
